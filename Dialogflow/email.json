@@ -1,0 +1,17 @@
+{
+  "isRegexp": true,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "email",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "([a-zA-Z0-9_\\-\\.]+)@([a-zA-Z0-9_\\-\\.]+)\\.([a-zA-Z]{2,5})",
+      "synonyms": [
+        "([a-zA-Z0-9_\\-\\.]+)@([a-zA-Z0-9_\\-\\.]+)\\.([a-zA-Z]{2,5})"
+      ]
+    }
+  ],
+  "id": "d87d753b-d440-416a-9aa0-200c0b316b6a",
+  "isOverridable": false
+}
